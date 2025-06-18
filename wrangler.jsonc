@@ -2,12 +2,12 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "cloudflare-workers-build-checks-bridge",
   "main": "src/index.ts",
-  "compatibility_date": "2025-06-18"
+  "compatibility_date": "2025-06-17",
   // "compatibility_flags": [
   //   "nodejs_compat"
   // ],
   // "vars": {
-  //   "MY_VAR": "my-variable"
+  //    "MY_VARIABLE" : "MY_VALUE",
   // },
   // "kv_namespaces": [
   //   {
